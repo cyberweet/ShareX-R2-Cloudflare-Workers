@@ -1,9 +1,9 @@
 name = "sharex-r2-cloudflare-workers"
-account_id = "522ed7942a6ec29727e101623a48ea76"
+account_id = "380de9e9b28abeca1c5471447c0c8b3a"
 workers_dev = true
 routes = [
-	{pattern = "r2-sharex.jross.me/*", zone_name = "jross.me"},
-	{pattern = "i.james.pub/*", zone_name = "james.pub"}
+	{pattern = "r2-sharex.w33t.io/*", zone_name = "w33t.io"},
+	{pattern = "i.w33t.io/*", zone_name = "w33t.io"}
 ]
 
 compatibility_date = "2022-04-22"
